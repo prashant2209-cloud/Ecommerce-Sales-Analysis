@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# InternCircle Project 03 — E-Commerce Sales Trend and Customer Analysis
+# requirements.txt
+#
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core scientific stack
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Optional: convert notebook to HTML or PDF
+nbconvert>=7.0.0
